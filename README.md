@@ -1,6 +1,6 @@
 # NgPlayground
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
+(Proof of Concept) Cross window BehaviorSubject emitting to popup window and render. 
 
 ## Development server
 
